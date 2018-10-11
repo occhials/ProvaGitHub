@@ -6,7 +6,7 @@ public class Prova {
 
 		System.out.println("Ciao 3");
 		System.out.println("Ciao 5");
-		System.out.println("Ciao da User1Aktsrt");
+		System.out.println("Ciao da me");
 	}
 
 }
