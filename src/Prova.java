@@ -5,8 +5,8 @@ public class Prova {
 		// TODO Auto-generated method stub
 
 		System.out.println("Ciao 3");
-		System.out.println("Ciao 5");
-		System.out.println("Ciao da User1Aktsrt");
+		System.out.println("Ciao 20000");
+		System.out.println("Ciao da me");
 	}
 
 }
