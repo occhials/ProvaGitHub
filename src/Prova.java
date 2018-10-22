@@ -9,6 +9,7 @@ public class Prova {
 		System.out.println("Ciao da me");
 		System.out.println("ciaone");
 		System.out.println("ciaone");
+		System.out.println("ciaone da STS");
 	}
 
 }
