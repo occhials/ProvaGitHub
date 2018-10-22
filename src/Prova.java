@@ -8,6 +8,7 @@ public class Prova {
 		System.out.println("Ciao 20000");
 		System.out.println("Ciao da me");
 		System.out.println("Ciao 20001");
+		System.out.println("ciaone mio");
 	}
 
 }
