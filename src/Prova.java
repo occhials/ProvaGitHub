@@ -10,6 +10,7 @@ public class Prova {
 		System.out.println("ciaone");
 		System.out.println("ciaone");
 		System.out.println("ciaone da eclipse");
+		System.out.println("ciaone da STS");
 	}
 
 }
